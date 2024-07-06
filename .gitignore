@@ -1,0 +1,5 @@
+node_modules
+/back/config.json
+back/certificate.crt
+back/private.key
+back/request.csr
